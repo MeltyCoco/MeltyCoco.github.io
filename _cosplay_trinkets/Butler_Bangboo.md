@@ -3,14 +3,15 @@ title:  Butler Bangboo
 categories: Cosplayer Trinkets
 layout: home
 series: zzz
-#image: /assets/images/ButlerBoo.jpg
+nfc: false
+image: /assets/images/ButlerBoo.jpg
 ---
-<img src="/assets/images/ButlerBoo.jpg" alt="drawing" width="200"/>  
+<img src="{{ page.image }}" alt="drawing" width="200"/>  
 
 **Convention**: Anime Revolution  
 **Date given**: August 2nd 2025  
 **STL file author**: [Pneuma 3d](https://thangs.com/designer/Pneuma%203D/3d-model/Butlerboo%20-%20Fanmade-1288993)  
-**Amount given**: 30  
+**Amount created**: 30  
 **NFC**: Yes, located in the base  
 **Cosplayers**:  
 Image here [@vividkun (insta)](https://www.instagram.com/vikun.cos/)  
