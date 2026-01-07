@@ -1,0 +1,4 @@
+title: My Jekyll Site
+description: A site powered by Jekyll and GitHub Pages
+theme: minima   # GitHub-supported theme
+markdown: kramdown
