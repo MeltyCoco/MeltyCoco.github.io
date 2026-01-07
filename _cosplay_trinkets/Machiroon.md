@@ -6,10 +6,10 @@ series: holostar
 nfc: false
 #image: /assets/images/Erik.png
 ---
-**Convention**: Anime Revolution  
-**Date given**: August 2nd 2025  
+**Convention**: Sakura-Con and Anime Revolution  
+**Date given**: April 20th 2025, August 2nd 2025  
 **STL file author**: MeltyCoco (me)  
-**Amount created**: 20  
+**Amount created**: 40  
 **NFC**: No  
 **Cosplayers**:  
 Image here MeltyCoco (me)
