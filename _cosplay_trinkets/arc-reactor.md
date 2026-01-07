@@ -6,6 +6,6 @@ materials:
   - foam
   - leds
 order: 2
-image: /assets/images/Erik.png
+#image: /assets/images/Erik.png
 ---
 Yada yada

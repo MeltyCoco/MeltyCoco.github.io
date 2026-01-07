@@ -1,5 +1,5 @@
 ---
-layout: masterlist
+layout: page
 title: Master List
 permalink: /masterlist/
 ---
