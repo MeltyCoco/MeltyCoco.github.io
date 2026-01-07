@@ -12,5 +12,5 @@ nfc: false
 **Amount created**: 100 total  
 **NFC**: No  
 **Cosplayer**:  
-**NO MATCHING COSPLAY**
+**NO MATCHING COSPLAY**   
 **Fun fact**: The first trinket I've ever 3d printed and handed out! Debuted at ChibiChibiCon at the Evergreen College! These were handed out to artists that had FFXIV items and to cosplayers of FFXIV!
