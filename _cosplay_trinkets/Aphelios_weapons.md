@@ -1,7 +1,7 @@
 ---
 title: Aphelios Weapons
 categories: Cosplayer Trinkets
-layout: default
+layout: trinket
 series: league of legends
 nfc: false
 #image: /assets/images/Erik.png

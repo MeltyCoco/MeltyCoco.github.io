@@ -1,20 +1,23 @@
 ---
 title:  Butler Bangboo
 categories: Cosplayer Trinkets
-layout: home
+layout: trinket
 series: zzz
 nfc: false
 image: /assets/images/ButlerBoo.jpg
+material: ABS
+cosplayers:
+  - name: "@Vividkun (insta)"
+    url: "https://www.instagram.com/vikun.cos/"
+  - name: "@yoshyosh.cos (insta)"
+    url: "https://www.instagram.com/yoshyosh.cos/"
+  - name: "@fizziesodapop (insta)"
+    url: "https://www.instagram.com/fizziesodapop/"
 ---
-<img src="{{ page.image }}" alt="drawing" width="200"/>  
 
 **Convention**: Anime Revolution  
 **Date given**: August 1st 2025  
 **STL file author**: [Pneuma 3d](https://thangs.com/designer/Pneuma%203D/3d-model/Butlerboo%20-%20Fanmade-1288993)  
 **Amount created**: 30  
 **NFC**: Yes, located in the base  
-**Cosplayers**:  
-Image here [@vividkun (insta)](https://www.instagram.com/vikun.cos/)  
-Another image here [@yoshyosh.cos (insta)](https://www.instagram.com/yoshyosh.cos/)  
-Last image here [@fizziesodapop (insta)](https://www.instagram.com/fizziesodapop/)  
 **Fun fact**: This is the first print made on my printer after building, from scratch, a multi material unit for the printer! It was a good way to test the unit >:)

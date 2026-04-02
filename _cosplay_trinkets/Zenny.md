@@ -1,7 +1,7 @@
 ---
 title: Zenny
 categories: Cosplayer Trinkets
-layout: default
+layout: trinket
 series: zzz
 nfc: true
 #image: /assets/images/Erik.png

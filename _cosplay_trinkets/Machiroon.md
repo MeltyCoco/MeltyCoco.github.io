@@ -1,7 +1,7 @@
 ---
 title: Machiroon
 categories: Cosplayer Trinkets
-layout: default
+layout: trinket
 series: holostar
 nfc: false
 #image: /assets/images/Erik.png

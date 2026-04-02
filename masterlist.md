@@ -1,13 +1,21 @@
 ---
 layout: default
-title: Portfolio
+title: Master List
 permalink: /masterlist/
 ---
+
+_**NONE OF THESE TRINKETS ARE CREATED WITH AI**_  
+_**EACH TRINKETS SHOW THE ORIGINS OF THE MODEL, THIS INCLUDE 3D MODELER, ARTIST, AND SERIES**_  
+_**SUPPORT THE ARTISTS**_  
+
+  
+
+**I'm still in the process of recording all of my trinkets and designing the page by hand ;-;**
 
 <link rel="stylesheet" href="{{ '/assets/css/grid.css' | relative_url }}">
 
 <section class="collection-grid-page">
-  <h1>Why tho</h1>
+  <h1>Trinkets!</h1>
 
   <div class="grid">
     {% for item in site.cosplay_trinkets %}

@@ -1,7 +1,7 @@
 ---
 title: Kyomies
 categories: Cosplayer Trinkets
-layout: default
+layout: trinket
 series: Nijisanji
 nfc: false
 #image: /assets/images/Erik.png

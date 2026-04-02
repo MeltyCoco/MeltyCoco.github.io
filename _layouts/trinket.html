@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<link rel="stylesheet" href="{{ '/assets/css/trinket.css' | relative_url }}">
+
+<div class="trinket-page">
+  <h1>{{ page.title }}</h1>
+
+  <div class="wiki-layout">
+
+    <!-- Main text on the left -->
+    <div class="wiki-body">
+      {{ content }}
+    </div>
+
+    <!-- Infobox on the right -->
+    <aside class="infobox">
+      {% if page.image %}
+        <img src="{{ page.image }}" alt="{{ page.title }}">
+      {% endif %}
+      <table>
+        {% for cosplayer in page.cosplayers %}
+          <tr>
+            <th>Cosplayer</th>
+            <td>
+              {% if cosplayer.url %}
+                <a href="{{ cosplayer.url }}" target="_blank">{{ cosplayer.name }}</a>
+              {% else %}
+                {{ cosplayer.name }}
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+        {% if page.amount %}
+        <tr><th>Amount created</th><td>{{ page.amount }}</td></tr>
+        {% endif %}
+        {% if page.convention %}
+        <tr><th>Convention</th><td>{{ page.convention }}</td></tr>
+        {% endif %}
+        {% if page.year %}
+        <tr><th>Year</th><td>{{ page.year }}</td></tr>
+        {% endif %}
+        {% if page.material %}
+        <tr><th>Material</th><td>{{ page.material }}</td></tr>
+        {% endif %}
+        {% if page.nfc %}
+        <tr><th>NFC enabled?</th><td>{{ page.nfc }}</td></tr>
+        {% endif %}
+      </table>
+    </aside>
+
+  </div>
+</div>

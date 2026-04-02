@@ -17,5 +17,5 @@ No AI was used during the creation of any of these trinkets! _**SUPPORT THE ARTI
 Voron 2.4r2, self sourced, 3d printed by me, built by me!  
 350mm x 350mm x 350mm build volume  
 ArmoredTurtle BoxTurtle MMU, LDO kit, 3d printed by me, built by me  
-Rapido 2 hotend  
+Revo Hotend Voron edition, High Temp heater block with PT1000  
 Xol toolhead with CPAP

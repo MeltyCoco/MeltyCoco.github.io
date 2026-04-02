@@ -1,7 +1,7 @@
 ---
 title: Melty Card
 categories: Cosplayer Trinkets
-layout: default
+layout: trinket
 series: ffxiv
 nfc: True
 #image: /assets/images/Erik.png

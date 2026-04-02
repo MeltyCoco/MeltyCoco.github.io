@@ -1,7 +1,7 @@
 ---
 title: Allagan Tomestone
 categories: Cosplayer Trinkets
-layout: default
+layout: trinket
 series: ffxiv
 nfc: false
 #image: /assets/images/Erik.png
