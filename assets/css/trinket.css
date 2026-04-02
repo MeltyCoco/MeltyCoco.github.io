@@ -60,6 +60,10 @@
 }
 
 @media (max-width: 600px) {
+    .trinket-page {
+    padding: 0 0.75rem;
+  }
+  
   .wiki-layout {
     flex-direction: column;
   }
@@ -68,6 +72,8 @@
     width: 100%;
     min-width: unset;
     order: 0;
+    box-sizing: border-box;  /* makes padding included in the width */
+    margin: 0;
   }
 
   .wiki-body {
