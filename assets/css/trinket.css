@@ -59,11 +59,18 @@
   line-height: 1.7;
 }
 
-/* Stack on mobile */
 @media (max-width: 600px) {
+  .wiki-layout {
+    flex-direction: column;
+  }
+
   .infobox {
-    float: none;
     width: 100%;
-    margin: 0 0 1.5rem 0;
+    min-width: unset;
+    order: 0;
+  }
+
+  .wiki-body {
+    order: 1;
   }
 }
