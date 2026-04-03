@@ -21,5 +21,5 @@ cosplayers:
 **Socials**:  
 Insta goes here  
 Discord goes here  
-FFXIV character info goes here  
+[FFXIV character info!!](https://na.finalfantasyxiv.com/lodestone/character/37412995/)  
 Huh I don't have much socials  

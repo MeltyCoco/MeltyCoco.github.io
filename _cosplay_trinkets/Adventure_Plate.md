@@ -19,8 +19,5 @@ cosplayers:
   
 Be on the look out for other fellow WOL with these plates! I've made a few of them for friends, all custom design to match their actual WOL!
 
-**Socials**:  
-Insta goes here  
-Discord goes here  
-FFXIV character info goes here  
-Huh I don't have much socials  
+**Here's my character:**:  
+[FFXIV character info!!](https://na.finalfantasyxiv.com/lodestone/character/37412995/)   
