@@ -21,3 +21,7 @@ Be on the look out for other fellow WOL with these plates! I've made a few of th
 
 **Here's my character:**:  
 [FFXIV character info!!](https://na.finalfantasyxiv.com/lodestone/character/37412995/)   
+  
+**Are you looking to find out how to get one yourself?**  
+I am currently in the process of creating a parametric version! This was made in Onshape which doesn't let me couple the class icon with the class, so I'm currently in the process of recreating it in openScad and freecad!  
+The goal is to eventually have a page on this site that lets you edit and export that model to print later!  
